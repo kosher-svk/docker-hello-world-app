@@ -1,0 +1,16 @@
+{
+  "name": "dockergithubapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "npm install",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "kosher <kosher@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
